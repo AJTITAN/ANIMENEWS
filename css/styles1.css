@@ -1,0 +1,142 @@
+.socialmedia{
+   text-align:center;
+}
+center{
+   background-color:#66BFBF;
+}
+.footer-link{
+   text-align:center;
+   margin-right:20px;
+}
+.contact-me{
+  display:block;
+  margin:0;
+}
+a{
+  color: #11999E;
+  font-family: "Montserrat",cursive;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #EAF6F6;
+}
+.btn{
+  background-color: #136b9e;
+  background-image: -webkit-linear-gradient(top, #136b9e, #287cad);
+  background-image: -moz-linear-gradient(top, #136b9e, #287cad);
+  background-image: -ms-linear-gradient(top, #136b9e, #287cad);
+  background-image: -o-linear-gradient(top, #136b9e, #287cad);
+  background-image: linear-gradient(to bottom, #136b9e, #287cad);
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 22px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover{
+  background-color: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+.copyright{
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 10px 0;
+  text-align:center;
+}
+
+.bottom-container{
+  background-color: #FDFCE5;
+  background-color:#66BFBF;
+  padding: 10px;
+  text-align:center;
+}
+.aot-photo{
+   width:642px; 
+   height:361px;
+   display:block;
+   margin:auto;
+}
+.aot-vedio{
+   display:block;
+   margin:auto;
+   padding-top:20px;
+   padding-bottom:30px;
+}
+.aot-h1{
+   font-size:3em;
+   line-height:50px;
+}
+.aot-p1{
+   line-height:5px;
+}
+.aot-p{
+   font-size:1.7em;
+   line-height:auto;
+   color: gray;
+}
+.middle{
+   background-color:#FFF2F9;
+   padding-top:10px;
+   padding-bottom:50px;
+   
+}
+.social-media{
+   margin-left:auto;
+}
+.social{
+   width:50px;
+   height:50px
+   color:#eb3349;
+}
+
+.top{
+   
+   background-color:#f45c43;
+   background-image: linear-gradient(to right,#eb3349 30%,yellow);
+   
+   padding-top:10px;
+   padding-bottom:20px;
+}
+.top-heading{
+   text-align:center;
+   color:#BAABDA;
+   font-family: 'Mochiy Pop P One', sans-serif;
+}
+
+.telegram1{
+   margin-top:100px;
+   float:left;
+   width:160px;
+   height:45px;
+   position:fixed;
+}
+
+.animenews{
+   margin:auto;
+   padding:0;
+   width:auto;
+   height:auto;
+   display: block;
+   position: relative;
+   bottom:5px;
+}
+
+body{
+   margin:0 0 0 0;
+   
+}
+li{
+   display:inline;
+   margin-right:5px;
+}

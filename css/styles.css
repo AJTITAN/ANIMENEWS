@@ -1,0 +1,83 @@
+.socialmedia{
+   text-align:center;
+}
+.aot-p{
+   font-size:1.8em;
+   margin-left:20px;
+   margin-right:10px;
+   font-family: 'Cairo', sans-serif;
+}
+.aot-img{
+   width:400px;
+   height:400px;
+   display:block;
+   margin:0 auto 0 auto;
+}
+.aot-h1{
+   text-align:center;
+   font-size:5em;
+   font-family: 'Dongle', sans-serif;
+   padding:0;
+}
+
+.middle{
+   background-color:#FBCAFF;
+   padding-top:10px;
+   padding-bottom:100px;
+   
+}
+.social-media{
+   margin-left:auto;
+   
+}
+.social{
+   width:50px;
+   height:50px
+   color:#eb3349;
+}
+
+.top{
+   
+   background-color:#f45c43;
+   background-image: linear-gradient(to right,#eb3349 30%,yellow);
+   
+   padding-top:30px;
+   padding-bottom:20px;
+}
+.top-heading{
+   text-align:center;
+   color:#BAABDA;
+   font-family: 'Mochiy Pop P One', sans-serif;
+}
+
+.telegram1{
+   margin-top:100px;
+   float:left;
+   width:160px;
+   height:45px;
+   position:fixed;
+}
+
+.animenews{
+   margin:auto;
+   padding:0;
+   width:auto;
+   height:auto;
+   display: block;
+   position: relative;
+   bottom:5px;
+}
+a{
+   text-decoration:none;
+}
+a:hover{
+   color:green;
+}
+body{
+   margin:0 0 0 0;
+   
+}
+li{
+   display:inline;
+   margin-right:5px;
+}
